@@ -44,6 +44,7 @@ Overtime Case Rate
 4.	Create calculated field and type in, IF [Districts] = [Neighborhood] THEN ‘true’ ELSEIF [Districts] = ‘ALL’ THEN ‘TRUE’ END
 5.	Drag this onto the filters.
 
+Demo: https://public.tableau.com/profile/hunter.zhao#!/vizhome/CovidAnalysisbyDistrict/CaseCountandPovertyIncomeLevels?publish=yes
 
 Collaborators: Enxhi Osmanllari, Hunter Zhao, Edwin Pineda, Jackson Lu
 
