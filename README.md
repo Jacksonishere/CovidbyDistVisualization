@@ -1,16 +1,18 @@
 # CovidbyDistVisualization
 
-Tableau Visualization of Poverty and Ethnicity in Relationship to COVID-19
+Tableau Visualization of Poverty, Lower Income and Ethnicity in Relationship to COVID-19
 
--We analyze the effects of COVID-19 based on income and ethnicity.
--We are using Tableau to visualize the effects of COVID-19.
--We are using the census and NYC coronavirus data to show this relationship.
+- Analyze regions highly populated with racial minorities and lower income/high poverty regions and effect COVID-19 had on them.
+- We are using Tableau to visualize the effects of COVID-19.
+- Data from Census, NYCHealth was used in this project.
 
 Links to Data Sets Used:
 - COVID-19 data set: https://github.com/nychealth/coronavirus-data
 - Poverty data set: https://www1.nyc.gov/site/opportunity/poverty-in-nyc/data-tool.page
 - Income levels: https://censusreporter.org/
 - Income levels, demographic by dist: https://data.cccnewyork.org/data/map/66/median-incomes#66/39/3/107/40/a/4
+
+# Creating the sheets 
 
 Covid Cases and Poverty/Median Income by Dist
 1.	Drag geometry under geo_export file and neighborhood under Sheet1 into the panel to generate all districts unaggregated. 
